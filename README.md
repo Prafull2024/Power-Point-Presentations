@@ -6,5 +6,5 @@
 <img width="1620" height="925" alt="ppt5" src="https://github.com/user-attachments/assets/5ae94ec0-5d84-45d7-ac90-5a5098ea403a" />
 <img width="1565" height="862" alt="ppt6" src="https://github.com/user-attachments/assets/6620c9b4-0fb1-41e1-8ce4-aa5ab29b73f4" />
 
-https://drive.google.com/file/d/1eKwRFtgal7aiI6Q9oqb7bL6GZagbb6jA/view?usp=drive_link# Power-Point-Presentations
+https://drive.google.com/file/d/1eKwRFtgal7aiI6Q9oqb7bL6GZagbb6jA/view?usp=drive_link
 Above link is Presentation for Joint Venture with International Clients. PPT converted into video.
