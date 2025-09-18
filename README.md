@@ -1,7 +1,5 @@
 # Power Point Presentations
 
-<img width="1266" height="816" alt="ppt1" src="https://github.com/user-attachments/assets/8852b528-5cfb-4964-b930-1b8e02a11528" />
-<img width="1682" height="895" alt="ppt1 2" src="https://github.com/user-attachments/assets/994c4170-93f1-47d1-a8ca-a1890f411412" />
 <img width="1617" height="884" alt="ppt2" src="https://github.com/user-attachments/assets/0d2e5ac6-1d15-4574-97d3-4825ba386344" />
 <img width="1582" height="865" alt="ppt3" src="https://github.com/user-attachments/assets/4ca202b3-1a66-4259-863e-8648a40cf9a5" />
 <img width="1511" height="857" alt="ppt4" src="https://github.com/user-attachments/assets/5eb6c652-fd40-4b39-9887-99dffcb083a8" />
